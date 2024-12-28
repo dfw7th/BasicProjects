@@ -1,0 +1,1 @@
+Use the OpenWeatherMap API to fetch and display weather data for a given location.
